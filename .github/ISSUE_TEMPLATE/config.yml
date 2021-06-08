@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Projects
+    url: https://github.com/orgs/shipeedo/projects
+    about: View on going projects.
+  - name: Packages
+    url: https://github.com/orgs/shipeedo/packages
+    about: View the packages that make up our software.
+©
